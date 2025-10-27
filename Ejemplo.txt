@@ -1,0 +1,5 @@
+Camila*Gomez*Producto:Laptop|Precio=4200;Ciudad=Bogotá;Correo=camila.gomez@gmail.com
+Andres*Ruiz*Producto:Celular|Precio=2300;Ciudad=Medellin;Correo=andres_ruiz@hotmail.com
+Laura*Salazar*Producto:Tablet|Precio=1950;Ciudad=Cali;Correo=laurita.salazar23@gmail.com
+Jorge*Perez*Producto:Portatil|Precio=4800;Ciudad=Bogota;Correo=jorge.perez@gmail.com
+Maria*Lopez*Producto:Celular|Precio=2100;Ciudad=Cartagena;Correo=maria_lopez@outlook.com
