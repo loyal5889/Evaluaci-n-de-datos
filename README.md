@@ -24,5 +24,7 @@ El objetivo fue aplicar conceptos de manejo de archivos, limpieza de datos y aut
 - **Unidecode**
 - **OpenPyXL** (para exportar a Excel)
 
----
+## Autor: 
+Juan Leal 
+Ingeniero Civil
 
